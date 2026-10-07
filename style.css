@@ -111,7 +111,7 @@ body {
 
 /* Option 3 picked (pills) */
 .site-nav a{
- color: var(--white);
+ color: white;
  text-decoration: none;
  padding: 10px 16px;
  display: inline-block;
